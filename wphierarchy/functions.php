@@ -20,5 +20,9 @@ function wphierarchy_enqueue_styles(){
 
 add_action('wp_enqueue_scripts','wphierarchy_enqueue_styles')
 
+//register menu locations
+// register_nav_menus( ['main-menu' => esc_html__('Main Menu', 'wpheirarchy'), ] );
+// ?>
+
 
 ?>
