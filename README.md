@@ -1,1 +1,1 @@
-A non-hosted practise wordpress theme build 
+A non-hosted practice wordpress theme build 
